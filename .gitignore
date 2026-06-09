@@ -1,0 +1,40 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# Node / JS (만약 파싱 스크립트가 JS인 경우)
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# Python (만약 파싱 스크립트가 Python인 경우)
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.pytest_cache/
+
+# 임시 파일 및 로그
+*.log
+tmp/
+temp/
+
+# 로컬 테스트용 스크래치 파일 (필요 시 주석 해제)
+# scratch/
+# test.json
