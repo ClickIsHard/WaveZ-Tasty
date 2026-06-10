@@ -38,3 +38,6 @@ temp/
 # 로컬 테스트용 스크래치 파일 (필요 시 주석 해제)
 # scratch/
 # test.json
+
+# 스크립트 폴더는 형상관리에서 제외
+geocoder/
