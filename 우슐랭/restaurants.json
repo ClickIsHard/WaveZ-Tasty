@@ -1,1472 +1,1717 @@
 [
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "다주",
     "address": "부산광역시 중구 대청로137번길 9",
-    "isBest": false
+    "latitude": 35.1036114,
+    "longitude": 129.0348835
   },
   {
-    "region": "부산권",
-    "name": "다무치아",
+    "region": "부산광역시",
+    "name": "다무치아 [BEST]",
     "address": "부산광역시 중구 대청로135번길 13-1 3층",
-    "isBest": true
+    "latitude": 35.104058,
+    "longitude": 129.0346312
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "된장한상",
     "address": "부산광역시 중구 대청로141번길 17",
-    "isBest": false
+    "latitude": 35.1043563,
+    "longitude": 129.0350607
   },
   {
-    "region": "부산권",
-    "name": "오붓한",
+    "region": "부산광역시",
+    "name": "오붓한 [BEST]",
     "address": "부산광역시 중구 동광길42 102호",
-    "isBest": true
+    "latitude": 35.1045963,
+    "longitude": 129.0347195
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "황태를벗삼아",
     "address": "부산광역시 중구 대청로137번길 10-1",
-    "isBest": false
+    "latitude": 35.1037122,
+    "longitude": 129.0350789
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "미도리우동",
     "address": "부산광역시 중구 흑교로45번길 10-1",
-    "isBest": false
+    "latitude": 35.1036932,
+    "longitude": 129.0241184
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "웨이아웃",
     "address": "부산광역시 서구 구덕로193번길 8",
-    "isBest": false
+    "latitude": 35.1021006,
+    "longitude": 129.0194252
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "동래할매파전",
     "address": "부산광역시 동래구 명륜로94번길 43-10",
-    "isBest": false
+    "latitude": 35.2046243,
+    "longitude": 129.0838339
   },
   {
-    "region": "부산권",
-    "name": "수안커피컴퍼니",
+    "region": "부산광역시",
+    "name": "수안커피컴퍼니 [BEST]",
     "address": "부산광역시 동래구 충렬대로256번길 32",
-    "isBest": true
+    "latitude": 35.199821,
+    "longitude": 129.08668
   },
   {
-    "region": "부산권",
-    "name": "동래밀면",
+    "region": "부산광역시",
+    "name": "동래밀면 [BEST]",
     "address": "부산광역시 동래구 명륜로 47",
-    "isBest": true
+    "latitude": 35.1983809,
+    "longitude": 129.0841646
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "영남식육식당 동래점",
     "address": "부산광역시 동래구 명륜로112번가길 51",
-    "isBest": false
+    "latitude": 35.205867,
+    "longitude": 129.0829342
   },
   {
-    "region": "부산권",
-    "name": "명륜고려삼계탕",
+    "region": "부산광역시",
+    "name": "명륜고려삼계탕 [BEST]",
     "address": "부산광역시 동래구 동래로79번길 24",
-    "isBest": true
+    "latitude": 35.209381,
+    "longitude": 129.0816507
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "카페유니",
     "address": "부산광역시 동래구 동래로 67-2",
-    "isBest": false
+    "latitude": 35.2092175,
+    "longitude": 129.0809909
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "여섯개장",
     "address": "부산광역시 동래구 동래로 63",
-    "isBest": false
+    "latitude": 35.2095981,
+    "longitude": 129.0806549
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "더라이스",
     "address": "부산광역시 동래구 동래로79번길 26",
-    "isBest": false
+    "latitude": 35.2094872,
+    "longitude": 129.0816514
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "밀양뚝배기",
     "address": "부산광역시 동래구 동래로57번길 7",
-    "isBest": false
+    "latitude": 35.2109579,
+    "longitude": 129.0807634
   },
   {
-    "region": "부산권",
-    "name": "동래안집 숯불갈비",
+    "region": "부산광역시",
+    "name": "동래안집 숯불갈비 [BEST]",
     "address": "부산광역시 동래구 동래로79번길 17",
-    "isBest": true
+    "latitude": 35.2090681,
+    "longitude": 129.0814067
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "베르",
     "address": "부산광역시 동래구 동래로79번길 30",
-    "isBest": false
+    "latitude": 35.2096089,
+    "longitude": 129.0816403
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "황령산 보쌈",
     "address": "부산광역시 수영구 황령산로8",
-    "isBest": false
+    "latitude": 35.1476481,
+    "longitude": 129.1095899
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "스위스제과",
     "address": "부산광역시 수영구 광남로 45",
-    "isBest": false
+    "latitude": 35.1467948,
+    "longitude": 129.1116417
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "구름고개카페",
     "address": "부산광역시 남구 황령산로 260",
-    "isBest": false
+    "latitude": 35.1593601,
+    "longitude": 129.0958178
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "강원도물회",
     "address": "부산광역시 남구 못골로 78",
-    "isBest": false
+    "latitude": 35.1359044,
+    "longitude": 129.0910023
   },
   {
-    "region": "부산권",
-    "name": "지밀레니얼",
+    "region": "부산광역시",
+    "name": "지밀레니얼 [BEST]",
     "address": "부산광역시 남구 진남로 135 B동 1층",
-    "isBest": true
+    "latitude": 35.1387777,
+    "longitude": 129.0801005
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "구자윤 과자점",
-    "address": "부산광역시 수영구 705번길 15",
-    "isBest": false
+    "address": "부산광역시 수영구 수영로705번길 15",
+    "latitude": null,
+    "longitude": null
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "수연이네",
     "address": "부산광역시 사상구 학장로 318-1",
-    "isBest": false
+    "latitude": 35.1488488,
+    "longitude": 129.0000587
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "호포장어마을",
     "address": "부산광역시 사상구 광장로 28",
-    "isBest": false
+    "latitude": 35.1622828,
+    "longitude": 128.9795594
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "설화회초밥",
     "address": "부산광역시 사상구 새벽로 218",
-    "isBest": false
+    "latitude": 35.1605031,
+    "longitude": 128.9843338
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "순풍삼계탕",
     "address": "부산광역시 사상구 사상로181번길 35",
-    "isBest": false
+    "latitude": 35.1597607,
+    "longitude": 128.985427
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "송스베이커리",
     "address": "부산광역시 금정구 수림로 26",
-    "isBest": false
+    "latitude": 35.2400011,
+    "longitude": 129.0898092
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "유림정",
     "address": "부산광역시 금정구 상현로79번길 26",
-    "isBest": false
+    "latitude": 35.2671218,
+    "longitude": 129.1139804
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "북문국수",
     "address": "부산광역시 금정구 북문로 53",
-    "isBest": false
+    "latitude": 35.2534825,
+    "longitude": 129.0537594
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "가마실",
     "address": "부산광역시 금정구 부곡로 94-1 동호빌딩 1층",
-    "isBest": false
+    "latitude": 35.2243162,
+    "longitude": 129.0915837
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "따신밥",
     "address": "부산광역시 금정구 부산대학로63번길 19",
-    "isBest": false
+    "latitude": 35.2307758,
+    "longitude": 129.084146
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "국수가",
     "address": "부산광역시 금정구 수림로20번길 9",
-    "isBest": false
+    "latitude": 35.2401678,
+    "longitude": 129.0901771
   },
   {
-    "region": "부산권",
-    "name": "강명장요리가",
+    "region": "부산광역시",
+    "name": "강명장요리가 [BEST]",
     "address": "부산광역시 금정구 수림로20번길 36, 주1동 109호",
-    "isBest": true
+    "latitude": 35.2415092,
+    "longitude": 129.0907349
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "광식당",
     "address": "부산광역시 사하구 하신번영로167번길 65 1층",
-    "isBest": false
+    "latitude": 35.0976471,
+    "longitude": 128.956342
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "제주대패랑 옛날갈비 신평점",
     "address": "부산광역시 사하구 신산로187 상가1층 103호",
-    "isBest": false
+    "latitude": 35.0901296,
+    "longitude": 128.9756989
   },
   {
-    "region": "부산권",
-    "name": "해주냉면",
+    "region": "부산광역시",
+    "name": "해주냉면 [BEST]",
     "address": "부산광역시 사하구 낙동대로324번길 5",
-    "isBest": true
+    "latitude": 35.1006496,
+    "longitude": 128.9817188
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "남해영양보리밥",
     "address": "부산광역시 사하구 제석로18번길 70",
-    "isBest": false
+    "latitude": 35.1024762,
+    "longitude": 128.9746183
   },
   {
-    "region": "부산권",
-    "name": "한우지존",
+    "region": "부산광역시",
+    "name": "한우지존 [BEST]",
     "address": "부산광역시 사하구 장림로184번길 25",
-    "isBest": true
+    "latitude": 35.0813611,
+    "longitude": 128.9686356
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "해운대 하선집",
     "address": "부산광역시 해운대구 좌동순환로 395 1층",
-    "isBest": false
+    "latitude": 35.1621911,
+    "longitude": 129.1773299
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "비안리안",
     "address": "부산광역시 해운대구 재반로 96-17, 1층",
-    "isBest": false
+    "latitude": 35.1870458,
+    "longitude": 129.1260883
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "박가면가",
     "address": "부산광역시 해운대구 명장로67번길 96",
-    "isBest": false
+    "latitude": 35.2042397,
+    "longitude": 129.1147818
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "방갈로끝집",
     "address": "부산광역시 해운대구 청사포로128번길 66",
-    "isBest": false
+    "latitude": 35.1600549,
+    "longitude": 129.1890876
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "윤가네 신토불이보쌈",
     "address": "부산광역시 해운대구 구남로29번길 35",
-    "isBest": false
+    "latitude": 35.1628255,
+    "longitude": 129.1621681
   },
   {
-    "region": "부산권",
-    "name": "충무김밥 김치수제비",
+    "region": "부산광역시",
+    "name": "충무김밥 김치수제비 [BEST]",
     "address": "부산광역시 해운대구 중동1로 15-1",
-    "isBest": true
+    "latitude": 35.1636455,
+    "longitude": 129.1614142
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "송정횟집",
     "address": "부산광역시 해운대구 송정중앙로33번길 10",
-    "isBest": false
+    "latitude": 35.1827083,
+    "longitude": 129.2044309
   },
   {
-    "region": "부산권",
-    "name": "꽃도새기 센텀점",
+    "region": "부산광역시",
+    "name": "꽃도새기 센텀점 [BEST]",
     "address": "부산광역시 해운대구 해운대로 173",
-    "isBest": true
+    "latitude": 35.1821568,
+    "longitude": 129.1231425
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "규온 가야점",
     "address": "부산광역시 부산진구 가야대로 538, 상가1층",
-    "isBest": false
+    "latitude": 35.1529647,
+    "longitude": 129.0309735
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "대성각",
     "address": "부산광역시 부산진구 가야대로587번길 10",
-    "isBest": false
+    "latitude": 35.1553004,
+    "longitude": 129.0361648
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "조방낙지 가야점",
     "address": "부산광역시 부산진구 가야대로 597",
-    "isBest": false
+    "latitude": 35.1551806,
+    "longitude": 129.0370106
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "심청이왕족발",
     "address": "부산광역시 부산진구 가야대로588번길 14",
-    "isBest": false
+    "latitude": 35.1540659,
+    "longitude": 129.0357822
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "연돼지국밥",
     "address": "부산광역시 부산진구 범일로192번길 33",
-    "isBest": false
+    "latitude": 35.1468545,
+    "longitude": 129.0616319
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "왕짜장",
     "address": "부산광역시 부산진구 진남로 505",
-    "isBest": false
+    "latitude": 35.1692205,
+    "longitude": 129.0709292
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "하이까눌레",
     "address": "부산광역시 부산진구 동천로 36 1층",
-    "isBest": false
+    "latitude": 35.1518075,
+    "longitude": 129.0625354
   },
   {
-    "region": "부산권",
-    "name": "바보엄마칼국수",
+    "region": "부산광역시",
+    "name": "바보엄마칼국수 [BEST]",
     "address": "부산광역시 북구 화명대로12번길 76, 1층",
-    "isBest": true
+    "latitude": 35.2315257,
+    "longitude": 129.008876
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "북경의자전거",
     "address": "부산광역시 북구 용당로5번길 14",
-    "isBest": false
+    "latitude": 35.2309236,
+    "longitude": 129.0095573
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "윤가네산오징어",
     "address": "부산광역시 북구 만덕대로16번길 24",
-    "isBest": false
+    "latitude": 35.2094316,
+    "longitude": 129.0071729
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "금용만두",
     "address": "부산광역시 북구 구포만세길 75",
-    "isBest": false
+    "latitude": 35.2055047,
+    "longitude": 128.9966557
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "첸차이나",
     "address": "부산광역시 북구 효열로219번가길 42",
-    "isBest": false
+    "latitude": 35.263653,
+    "longitude": 129.0170913
   },
   {
-    "region": "부산권",
-    "name": "아낙촌",
+    "region": "부산광역시",
+    "name": "아낙촌 [BEST]",
     "address": "부산광역시 북구 만덕3로 46",
-    "isBest": true
+    "latitude": 35.2116158,
+    "longitude": 129.0286943
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "숙향",
     "address": "부산광역시 북구 덕천로 217-1",
-    "isBest": false
+    "latitude": 35.2108043,
+    "longitude": 129.0281075
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "가마솥추어탕",
     "address": "부산광역시 북구 산성로 75-5",
-    "isBest": false
+    "latitude": 35.241865,
+    "longitude": 129.0210316
   },
   {
-    "region": "부산권",
-    "name": "팔팔연제장어",
+    "region": "부산광역시",
+    "name": "팔팔연제장어 [BEST]",
     "address": "부산광역시 연제구 황새알로 21-1",
-    "isBest": true
+    "latitude": 35.1941162,
+    "longitude": 129.0749472
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "청미추어탕",
     "address": "부산광역시 연제구 월드컵대로119번길 59",
-    "isBest": false
+    "latitude": 35.1829857,
+    "longitude": 129.0802223
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "쏘이472",
     "address": "부산광역시 아시아드대로134번길 14, 상가 103호",
-    "isBest": false
+    "latitude": 35.1964773,
+    "longitude": 129.0678134
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "뜬금카페",
     "address": "부산광역시 동래구 아시아드대로108번길 53, 1층",
-    "isBest": false
+    "latitude": 35.1948212,
+    "longitude": 129.0694829
   },
   {
-    "region": "부산권",
-    "name": "만포장회전문점",
+    "region": "부산광역시",
+    "name": "만포장회전문점 [BEST]",
     "address": "부산광역시 연제구 법원북로3번길 15",
-    "isBest": true
+    "latitude": 35.1938587,
+    "longitude": 129.0672885
   },
   {
-    "region": "부산권",
-    "name": "좋은집",
+    "region": "부산광역시",
+    "name": "좋은집 [BEST]",
     "address": "부산광역시 동구 조방로 10, 1층 코리아시티관광호텔",
-    "isBest": true
+    "latitude": 35.1380272,
+    "longitude": 129.0635364
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "명가",
-    "address": "부산광역시 동구 자성공원로 23-9",
-    "isBest": false
+    "address": "부산 동구 부산진성공원로 23-9",
+    "latitude": null,
+    "longitude": null
   },
   {
-    "region": "부산권",
-    "name": "감포참가자미",
+    "region": "부산광역시",
+    "name": "감포참가자미 [BEST]",
     "address": "부산광역시 동구 범일로102번길 16-20",
-    "isBest": true
+    "latitude": 35.1383147,
+    "longitude": 129.0610269
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "미소가 범일점",
     "address": "부산광역시 동구 조방로 19",
-    "isBest": false
+    "latitude": 35.1386066,
+    "longitude": 129.0620919
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "수미식당",
     "address": "부산광역시 동구 고관로 109-9",
-    "isBest": false
+    "latitude": 35.1288485,
+    "longitude": 129.046037
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "다다우동",
-    "address": "부산광역시 동구 자성공원로3번길 15",
-    "isBest": false
+    "address": "부산광역시 동구 부산진성공원로3번길 15",
+    "latitude": null,
+    "longitude": null
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "봉래화로",
     "address": "부산광역시 영도구 대교로 1, 101호",
-    "isBest": false
+    "latitude": 35.0926042,
+    "longitude": 129.0442772
   },
   {
-    "region": "부산권",
-    "name": "모디포차 1호점",
+    "region": "부산광역시",
+    "name": "모디포차 1호점 [BEST]",
     "address": "부산광역시 영도구 태종로113번길 36, 1층",
-    "isBest": true
+    "latitude": 35.0924807,
+    "longitude": 129.0440423
   },
   {
-    "region": "부산권",
-    "name": "우리이모집",
+    "region": "부산광역시",
+    "name": "우리이모집 [BEST]",
     "address": "부산광역시 영도구 감지해변길 92",
-    "isBest": true
+    "latitude": 35.0609936,
+    "longitude": 129.0775178
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "편편집 대교점",
     "address": "부산광역시 영도구 태종로 75 1층",
-    "isBest": false
+    "latitude": 35.0925887,
+    "longitude": 129.0394748
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "등대횟집",
     "address": "부산광역시 영도구 남항로31번길 29",
-    "isBest": false
+    "latitude": 35.0903107,
+    "longitude": 129.0404529
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "두메산골 터줏대감",
     "address": "부산광역시 영도구 태종로 86",
-    "isBest": false
+    "latitude": 35.0917868,
+    "longitude": 129.0402402
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "장어마을",
     "address": "부산광역시 영도구 절영로13번길 2",
-    "isBest": false
+    "latitude": 35.092922,
+    "longitude": 129.0403048
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "고귀관",
     "address": "부산광역시 강서구 대저중앙로 399",
-    "isBest": false
+    "latitude": 35.2206332,
+    "longitude": 128.9906637
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "흑마루돈돈",
     "address": "부산광역시 강서구 공항앞길 12, 1층",
-    "isBest": false
+    "latitude": 35.180267,
+    "longitude": 128.9541902
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "다금정",
     "address": "부산광역시 강서구 공항로811번길 42",
-    "isBest": false
+    "latitude": 35.1804963,
+    "longitude": 128.9557261
   },
   {
-    "region": "부산권",
-    "name": "시골추어탕",
+    "region": "부산광역시",
+    "name": "시골추어탕 [BEST]",
     "address": "부산광역시 강서구 대저로3번길 163",
-    "isBest": true
+    "latitude": 35.2187863,
+    "longitude": 128.9581816
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "부산식당 한식뷔페",
     "address": "부산광역시 강서구 대저로89번가길 53",
-    "isBest": false
+    "latitude": 35.2176965,
+    "longitude": 128.9659343
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "옥이감자탕",
     "address": "부산광역시 강서구 화전산단4로7번길 14",
-    "isBest": false
+    "latitude": 35.1115574,
+    "longitude": 128.8792412
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "복오네",
     "address": "부산광역시 강서구 대저중앙로 61-7",
-    "isBest": false
+    "latitude": 35.2181637,
+    "longitude": 128.9541376
   },
   {
-    "region": "부산권",
-    "name": "뒷고기 상회",
+    "region": "부산광역시",
+    "name": "뒷고기 상회 [BEST]",
     "address": "부산광역시 강서구 명지국제5로 148번길 16-8",
-    "isBest": true
+    "latitude": 35.1063274,
+    "longitude": 128.9228143
   },
   {
-    "region": "부산권",
-    "name": "가마솥생복집",
+    "region": "부산광역시",
+    "name": "가마솥생복집 [BEST]",
     "address": "부산광역시 기장군 기장읍 차성로 327-2",
-    "isBest": true
+    "latitude": 35.246995,
+    "longitude": 129.2134055
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "일광바다횟집",
     "address": "부산광역시 기장군 일광읍 기장해안로 1312",
-    "isBest": false
+    "latitude": 35.2609087,
+    "longitude": 129.2335124
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "한양횟집",
     "address": "부산광역시 기장군 일광읍 문오성길 165-1",
-    "isBest": false
+    "latitude": 35.2866574,
+    "longitude": 129.2577232
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "해녀조씨할매집",
     "address": "부산광역시 기장군 기장읍 연화1길 187",
-    "isBest": false
+    "latitude": 35.2183414,
+    "longitude": 129.2275513
   },
   {
-    "region": "부산권",
+    "region": "부산광역시",
     "name": "청기와 식육식당",
     "address": "부산광역시 기장군 철마면 중리1길 15-9",
-    "isBest": false
+    "latitude": 35.2888371,
+    "longitude": 129.1657572
   },
   {
-    "region": "부산권",
-    "name": "나누리생선구이",
+    "region": "부산광역시",
+    "name": "나누리생선구이 [BEST]",
     "address": "부산광역시 기장군 기장읍 차성동로87번길 16",
-    "isBest": true
+    "latitude": 35.2457126,
+    "longitude": 129.2158283
   },
   {
-    "region": "울산권",
+    "region": "울산광역시",
     "name": "전통한우수구레국밥",
     "address": "울산광역시 울주군 삼남읍 작괘들길 7",
-    "isBest": false
+    "latitude": 35.5414148,
+    "longitude": 129.1074177
   },
   {
-    "region": "울산권",
+    "region": "울산광역시",
     "name": "유쾌한낙지 본점",
     "address": "울산광역시 중구 태화강국가정원길 231-6",
-    "isBest": false
+    "latitude": 35.5513906,
+    "longitude": 129.3002147
   },
   {
-    "region": "울산권",
+    "region": "울산광역시",
     "name": "허준 굴요리전문점",
     "address": "울산광역시 중구 새치로 29",
-    "isBest": false
+    "latitude": 35.5547087,
+    "longitude": 129.3315036
   },
   {
-    "region": "울산권",
+    "region": "울산광역시",
     "name": "대박터숯불촌",
     "address": "울산광역시 중구 구교로 52",
-    "isBest": false
+    "latitude": 35.5551019,
+    "longitude": 129.3300407
   },
   {
-    "region": "울산권",
-    "name": "만선어탕전문",
+    "region": "울산광역시",
+    "name": "만선어탕전문 [BEST]",
     "address": "울산광역시 중구 학성1길 44-1",
-    "isBest": true
+    "latitude": 35.5575554,
+    "longitude": 129.3314285
   },
   {
-    "region": "울산권",
-    "name": "만겸명태찜",
+    "region": "울산광역시",
+    "name": "만겸명태찜 [BEST]",
     "address": "울산광역시 남구 왕생로 144번길 15, 1층",
-    "isBest": true
+    "latitude": 35.5465097,
+    "longitude": 129.3298385
   },
   {
-    "region": "울산권",
+    "region": "울산광역시",
     "name": "돈당",
     "address": "울산광역시 남구 월평로217번길 4",
-    "isBest": false
+    "latitude": 35.5473567,
+    "longitude": 129.3284514
   },
   {
-    "region": "울산권",
-    "name": "옥국밥",
+    "region": "울산광역시",
+    "name": "옥국밥 [BEST]",
     "address": "울산광역시 남구 왕생로 132, 1층",
-    "isBest": true
+    "latitude": 35.544951,
+    "longitude": 129.3290333
   },
   {
-    "region": "울산권",
+    "region": "울산광역시",
     "name": "화락",
     "address": "울산광역시 남구 왕생로 134",
-    "isBest": false
+    "latitude": 35.5451428,
+    "longitude": 129.3288822
   },
   {
-    "region": "울산권",
+    "region": "울산광역시",
     "name": "해운대대게횟집",
     "address": "울산광역시 남구 돋질로171번길 3",
-    "isBest": false
+    "latitude": 35.5413276,
+    "longitude": 129.3238016
   },
   {
-    "region": "울산권",
+    "region": "울산광역시",
     "name": "한양식당",
     "address": "울산광역시 남구 대암로 6",
-    "isBest": false
+    "latitude": 35.5303592,
+    "longitude": 129.3166765
   },
   {
-    "region": "울산권",
+    "region": "울산광역시",
     "name": "엄마선지해장국",
     "address": "울산광역시 남구 돋질로239번길 4-5",
-    "isBest": false
+    "latitude": 35.5437822,
+    "longitude": 129.3311602
   },
   {
-    "region": "울산권",
+    "region": "울산광역시",
     "name": "덕하홍두깨 손칼국수",
     "address": "울산광역시 울주군 청량읍 덕하장터길 10",
-    "isBest": false
+    "latitude": 35.491134,
+    "longitude": 129.3059169
   },
   {
-    "region": "울산권",
+    "region": "울산광역시",
     "name": "외식명가 삼산정",
     "address": "울산광역시 남구 화합로 154 1~4층",
-    "isBest": false
+    "latitude": 35.5385301,
+    "longitude": 129.3400117
   },
   {
-    "region": "울산권",
+    "region": "울산광역시",
     "name": "굴화길",
     "address": "울산광역시 남구 왕생로 126 1층",
-    "isBest": false
+    "latitude": 35.5445543,
+    "longitude": 129.3292165
   },
   {
-    "region": "울산권",
+    "region": "울산광역시",
     "name": "원아구찜",
     "address": "울산광역시 동구 진성2길 37",
-    "isBest": false
+    "latitude": 35.5113624,
+    "longitude": 129.427799
   },
   {
-    "region": "울산권",
+    "region": "울산광역시",
     "name": "이모야 커피",
     "address": "울산광역시 동구 진성2길 14",
-    "isBest": false
+    "latitude": 35.5114226,
+    "longitude": 129.4296052
   },
   {
-    "region": "울산권",
+    "region": "울산광역시",
     "name": "남도돼지국밥",
     "address": "울산광역시 동구 진성2길 16, 1층",
-    "isBest": false
+    "latitude": 35.5114582,
+    "longitude": 129.4294026
   },
   {
-    "region": "울산권",
+    "region": "울산광역시",
     "name": "곤지곤지",
     "address": "울산광역시 동구 진성13길 103",
-    "isBest": false
+    "latitude": 35.5111411,
+    "longitude": 129.4266678
   },
   {
-    "region": "경남권",
-    "name": "샤인커피",
+    "region": "경상남도",
+    "name": "샤인커피 [BEST]",
     "address": "경남 창원시 마산합포구 중앙동3길 32-17",
-    "isBest": true
+    "latitude": 35.1945716,
+    "longitude": 128.5685457
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "전복맛",
     "address": "경남 창원시 마산합포구 3-15대로 222",
-    "isBest": false
+    "latitude": 35.1979149,
+    "longitude": 128.567398
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "하동가식육식당",
     "address": "경상남도 창원시 마산합포구 반월동5길 38",
-    "isBest": false
+    "latitude": 35.1891972,
+    "longitude": 128.5640485
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "달동치킨",
     "address": "경남 창원시 마산합포구 반월동2길 32",
-    "isBest": false
+    "latitude": 35.1912315,
+    "longitude": 128.5644214
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "미미스시앤일식",
     "address": "경상남도 창원시 마산합포구 문화동15길 22 2층",
-    "isBest": false
+    "latitude": 35.1816152,
+    "longitude": 128.5620574
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "대흥관",
     "address": "경남 창원시 마산회원구 내서읍 삼계로31-3",
-    "isBest": false
+    "latitude": 35.2313816,
+    "longitude": 128.5014249
   },
   {
-    "region": "경남권",
-    "name": "몬스터로스터스",
+    "region": "경상남도",
+    "name": "몬스터로스터스 [BEST]",
     "address": "경상남도 창원시 마산합포구 월영동9길 14",
-    "isBest": true
+    "latitude": 35.180356,
+    "longitude": 128.5636753
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "하연옥",
     "address": "경남 진주시 진주대로 1317-20",
-    "isBest": false
+    "latitude": 35.1939209,
+    "longitude": 128.0606972
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "천황식당",
     "address": "경남 진주시 촉석로207번길 3",
-    "isBest": false
+    "latitude": 35.1961092,
+    "longitude": 128.0844884
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "효성갈비",
     "address": "경남 진주시 진주대로 1236",
-    "isBest": false
+    "latitude": 35.1937115,
+    "longitude": 128.0682454
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "마메종",
     "address": "경상남도 진주시 비봉로23번길 9",
-    "isBest": false
+    "latitude": 35.1923649,
+    "longitude": 128.0803186
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "유정장어",
     "address": "경남 진주시 진주성로 2 (진주성 북문 앞)",
-    "isBest": false
+    "latitude": 35.1907678,
+    "longitude": 128.0797793
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "사천냉면",
     "address": "경남 진주시 강남로177번길 17",
-    "isBest": false
+    "latitude": 35.1833194,
+    "longitude": 128.0932916
   },
   {
-    "region": "경남권",
-    "name": "삼다도전복죽",
+    "region": "경상남도",
+    "name": "삼다도전복죽 [BEST]",
     "address": "경상남도 진주시 남강로673번길 9",
-    "isBest": true
+    "latitude": 35.1918748,
+    "longitude": 128.0858419
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "싱싱횟집",
     "address": "경상남도 진주시 창렬로 23",
-    "isBest": false
+    "latitude": 35.1911485,
+    "longitude": 128.0717569
   },
   {
-    "region": "경남권",
-    "name": "돌산갈비",
+    "region": "경상남도",
+    "name": "돌산갈비 [BEST]",
     "address": "경상남도 창원시 진해구 중원로 52",
-    "isBest": true
+    "latitude": 35.1487275,
+    "longitude": 128.6597391
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "중원로카페",
     "address": "경남 창원시 진해구 중원로74번길 13-1 1층",
-    "isBest": false
+    "latitude": 35.150679,
+    "longitude": 128.6612398
   },
   {
-    "region": "경남권",
-    "name": "음식이보약",
+    "region": "경상남도",
+    "name": "음식이보약 [BEST]",
     "address": "경남 창원시 진해구 백구로13 102, 103(근화동 보문빌딩)",
-    "isBest": true
+    "latitude": 35.1468031,
+    "longitude": 128.6617917
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "대한삼계탕",
     "address": "경남 창원시 진해구 충장로82번길 16",
-    "isBest": false
+    "latitude": 35.1510793,
+    "longitude": 128.6606583
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "맛있으면돼지",
     "address": "경남 창원시 진해구 덕산로14번길 15",
-    "isBest": false
+    "latitude": 35.1454479,
+    "longitude": 128.7017343
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "갈비랑아구랑",
     "address": "경남 창원시 진해구 충장로491번길 17",
-    "isBest": false
+    "latitude": 35.1458349,
+    "longitude": 128.7028711
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "행님족발남문점",
     "address": "경상남도 창원시 진해구 웅천중로 49",
-    "isBest": false
+    "latitude": 35.1102298,
+    "longitude": 128.7497097
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "사야",
     "address": "경남 창원시 성산구 마디미로70번길 2 이번가빌딩 2층",
-    "isBest": false
+    "latitude": 35.2191541,
+    "longitude": 128.6815253
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "호랑면옥",
     "address": "경남 창원시 성산구 상남로 67 경창종합상가 1층",
-    "isBest": false
+    "latitude": 35.2201651,
+    "longitude": 128.6793261
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "아구나라꽃게마을",
     "address": "경남 창원시 성산구 상남로 71, 창원코아상가 2층",
-    "isBest": false
+    "latitude": 35.2204425,
+    "longitude": 128.6795415
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "양지정",
     "address": "경상남도 창원시 성산구 중앙대로 56, 1층 108호",
-    "isBest": false
+    "latitude": 35.2198701,
+    "longitude": 128.6777495
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "할매낙지마당",
     "address": "경남 창원시 성산구 신촌로 17",
-    "isBest": false
+    "latitude": 35.2079091,
+    "longitude": 128.6265264
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "전주보리식당",
     "address": "경남 창원시 성산구 대정로 36, 지하23호-24호(가음동종합상가)",
-    "isBest": false
+    "latitude": 35.2075342,
+    "longitude": 128.6989217
   },
   {
-    "region": "경남권",
-    "name": "진고려삼계탕",
+    "region": "경상남도",
+    "name": "진고려삼계탕 [BEST]",
     "address": "경남 창원시 의창구 태복산로3번길 11",
-    "isBest": true
+    "latitude": 35.2530958,
+    "longitude": 128.6383154
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "밀면마을",
     "address": "경남 김해시 김해대로2511번길 6",
-    "isBest": false
+    "latitude": 35.2287351,
+    "longitude": 128.9016496
   },
   {
-    "region": "경남권",
-    "name": "국보장어",
+    "region": "경상남도",
+    "name": "국보장어 [BEST]",
     "address": "경상남도 김해시 장어타운길 25",
-    "isBest": true
+    "latitude": 35.2180262,
+    "longitude": 128.9224786
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "외식명가 오립스",
     "address": "경상남도 김해시 김해대로1765번길 14",
-    "isBest": false
+    "latitude": 35.2676303,
+    "longitude": 128.8623225
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "경성주물럭",
     "address": "경상남도 김해시 인제로39번길 59",
-    "isBest": false
+    "latitude": 35.231449,
+    "longitude": 128.8987039
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "한근두근",
     "address": "경남 김해시 분성로 518",
-    "isBest": false
+    "latitude": 35.2352566,
+    "longitude": 128.9023748
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "국수마을",
     "address": "경남 김해시 능동로7번길 2",
-    "isBest": false
+    "latitude": 35.1960115,
+    "longitude": 128.794507
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "풍년밥",
     "address": "경남 김해시 삼안로77번길 15",
-    "isBest": false
+    "latitude": 35.2364926,
+    "longitude": 128.9154165
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "산골버섯",
     "address": "경상남도 김해시 전하로222번길 13",
-    "isBest": false
+    "latitude": 35.2231923,
+    "longitude": 128.8724714
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "진영박가네참숯불갈비",
     "address": "경남 김해시 장유로288번길 5",
-    "isBest": false
+    "latitude": 35.199799,
+    "longitude": 128.8134974
   },
   {
-    "region": "경남권",
-    "name": "초가순두부",
+    "region": "경상남도",
+    "name": "초가순두부 [BEST]",
     "address": "경상남도 양산시 신기1길 13",
-    "isBest": true
+    "latitude": 35.3511554,
+    "longitude": 129.0438914
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "명곡농원",
     "address": "경남 양산시 명곡로 491",
-    "isBest": false
+    "latitude": 35.3472907,
+    "longitude": 129.0781087
   },
   {
-    "region": "경남권",
-    "name": "우리농원",
+    "region": "경상남도",
+    "name": "우리농원 [BEST]",
     "address": "경상남도 양산시 중앙로 300",
-    "isBest": true
+    "latitude": 35.3567711,
+    "longitude": 129.0436598
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "왕카이",
     "address": "경남 양산시 신기1길 15",
-    "isBest": false
+    "latitude": 35.3510908,
+    "longitude": 129.0443134
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "동암식당",
     "address": "경남 양산시 하북면 월평1길 37",
-    "isBest": false
+    "latitude": 35.4965227,
+    "longitude": 129.0907358
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "내몸에좋은오리",
     "address": "경남 양산시 물금읍 동중6길21 1동",
-    "isBest": false
+    "latitude": 35.3312436,
+    "longitude": 129.0047484
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "구선장네횟집&파티룸",
     "address": "경남 거제시 사등면 성포로 77",
-    "isBest": false
+    "latitude": 34.9170709,
+    "longitude": 128.520655
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "슬로우소랑 카페",
     "address": "경남 거제시 거제남서로 3955-2",
-    "isBest": false
+    "latitude": 34.8344776,
+    "longitude": 128.5577641
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "연화횟집",
     "address": "경남 거제시 거제중앙로 1881-6",
-    "isBest": false
+    "latitude": 34.8861395,
+    "longitude": 128.6234606
   },
   {
-    "region": "경남권",
-    "name": "고풍쌈밥",
+    "region": "경상남도",
+    "name": "고풍쌈밥 [BEST]",
     "address": "경남 거제시 일운면 지세포4길 8",
-    "isBest": true
+    "latitude": 34.8292602,
+    "longitude": 128.7035346
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "이든횟집",
     "address": "경남 거제시 계룡로 40",
-    "isBest": false
+    "latitude": 34.8750966,
+    "longitude": 128.6279573
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "대원군숯불갈비",
     "address": "경남 거제시 거제중앙로31길 32-1",
-    "isBest": false
+    "latitude": 34.890241,
+    "longitude": 128.6187826
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "쓰리원식당",
     "address": "경상남도 거제시 사등면 두동로3길 8",
-    "isBest": false
+    "latitude": 34.8891733,
+    "longitude": 128.5719824
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "임꺽정 제주오겹",
     "address": "경상남도 거제시 거제중앙로 1763",
-    "isBest": false
+    "latitude": 34.8765406,
+    "longitude": 128.6294845
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "봉자가든",
     "address": "경상남도 통영시 남해안대로736-14",
-    "isBest": false
+    "latitude": 34.8645355,
+    "longitude": 128.426771
   },
   {
-    "region": "경남권",
-    "name": "목장원",
+    "region": "경상남도",
+    "name": "목장원 [BEST]",
     "address": "경상남도 통영시 무전5길 37-23",
-    "isBest": true
+    "latitude": 34.8612532,
+    "longitude": 128.4260178
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "밀보리베이커리",
     "address": "경상남도 통영시 중앙로 264",
-    "isBest": false
+    "latitude": 34.8540345,
+    "longitude": 128.42912
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "마리나송원횟집",
     "address": "경상남도 통영시 도남로269-38 상가 302호",
-    "isBest": false
+    "latitude": 34.8286857,
+    "longitude": 128.4337189
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "블루하라",
     "address": "경상남도 통영시 무전5길 12-7",
-    "isBest": false
+    "latitude": 34.8607428,
+    "longitude": 128.426673
   },
   {
-    "region": "경남권",
-    "name": "베지나랑키친",
+    "region": "경상남도",
+    "name": "베지나랑키친 [BEST]",
     "address": "경남 거창군 남하면 대야길 69-17",
-    "isBest": true
+    "latitude": 35.6372817,
+    "longitude": 127.9640528
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "비룡",
     "address": "경상남도 거창군 거창읍 공수들6길 17",
-    "isBest": false
+    "latitude": 35.6869016,
+    "longitude": 127.9034591
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "외양간구시",
-    "address": "경남 거창군 거창읍 산동2길 70",
-    "isBest": false
+    "address": "경남 거창군 거창읍 상동2길 70",
+    "latitude": 35.6885022,
+    "longitude": 127.9076852
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "우담",
     "address": "경상남도 거창군 거창읍 밭들길 87",
-    "isBest": false
+    "latitude": 35.6858205,
+    "longitude": 127.9244319
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "영남쌈밥",
     "address": "경상남도 거창군 거창읍 강변로8길 14",
-    "isBest": false
+    "latitude": 35.6847079,
+    "longitude": 127.9094577
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "지리산옻닭",
     "address": "경상남도 거창군 거창읍 상동2길 21",
-    "isBest": false
+    "latitude": 35.686465,
+    "longitude": 127.9078498
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "창성식당",
     "address": "경상남도 거창군 거창읍 죽전4길 132-15",
-    "isBest": false
+    "latitude": 35.6955514,
+    "longitude": 127.9122948
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "거창고제식육식당",
     "address": "경상남도 거창군 고제면 입석2길 13",
-    "isBest": false
+    "latitude": 35.8139088,
+    "longitude": 127.8721853
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "미당",
     "address": "경상남도 거창군 거창읍 강변로9길 96-3",
-    "isBest": false
+    "latitude": 35.6910152,
+    "longitude": 127.9172445
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "대가호수카페",
     "address": "경상남도 고성군 대가면 대가로279-31",
-    "isBest": false
+    "latitude": 35.0018379,
+    "longitude": 128.3018306
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "삼거리식당",
     "address": "경상남도 고성군 하이면 봉현2길 44",
-    "isBest": false
+    "latitude": 34.9513218,
+    "longitude": 128.1292838
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "왕창이",
     "address": "경상남도 고성군 거류면 거류로 624",
-    "isBest": false
+    "latitude": 34.9866783,
+    "longitude": 128.4040911
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "해금강횟집",
     "address": "경상남도 고성군 고성읍 중앙로25번길 47",
-    "isBest": false
+    "latitude": 34.9764175,
+    "longitude": 128.3234915
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "홍스쭈꾸미",
     "address": "경상남도 고성군 고성읍 남포로80번길 112-1",
-    "isBest": false
+    "latitude": 34.9728179,
+    "longitude": 128.3247813
   },
   {
-    "region": "경남권",
-    "name": "복만식당",
+    "region": "경상남도",
+    "name": "복만식당 [BEST]",
     "address": "경상남도 남해군 남면 남면로 1743",
-    "isBest": true
+    "latitude": 34.7685158,
+    "longitude": 127.8518633
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "제이라운지",
     "address": "경상남도 남해군 남해읍 화전로78번길 3",
-    "isBest": false
+    "latitude": 34.8382988,
+    "longitude": 127.8945039
   },
   {
-    "region": "경남권",
-    "name": "초량정",
+    "region": "경상남도",
+    "name": "초량정 [BEST]",
     "address": "경상남도 남해군 남해읍 화전로38번길 28-4",
-    "isBest": true
+    "latitude": 34.8372232,
+    "longitude": 127.895416
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "24시 활어회센타",
     "address": "경상남도 남해군 남해읍 화전로96번가길 16-1",
-    "isBest": false
+    "latitude": 34.8413194,
+    "longitude": 127.8948994
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "봉정식당",
     "address": "경상남도 남해군 남해읍 화전로110",
-    "isBest": false
+    "latitude": 34.8401734,
+    "longitude": 127.8944803
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "무쇠왕솥뚜껑",
     "address": "경상남도 남해군 남해읍 화전로96번나길 1",
-    "isBest": false
+    "latitude": 34.8411461,
+    "longitude": 127.8951324
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "딸기네 커피콩방",
     "address": "경남 남해군 설천면 남양리 94-13",
-    "isBest": false
+    "latitude": 34.9258733,
+    "longitude": 127.913976
   },
   {
-    "region": "경남권",
-    "name": "일품각 본점",
+    "region": "경상남도",
+    "name": "일품각 본점 [BEST]",
     "address": "경상남도 밀양시 석정로 75",
-    "isBest": true
+    "latitude": 35.4966072,
+    "longitude": 128.7514787
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "천하왕소금구이",
     "address": "경상남도 밀양시 미리벌로2길 39",
-    "isBest": false
+    "latitude": 35.4838274,
+    "longitude": 128.7460988
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "진미추어탕",
     "address": "경상남도 밀양시 중앙로 66-5",
-    "isBest": false
+    "latitude": 35.4741943,
+    "longitude": 128.770506
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "서울삼계탕",
     "address": "경상남도 밀양시 미리벌중앙로 90",
-    "isBest": false
+    "latitude": 35.4855827,
+    "longitude": 128.7474746
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "해선원생아구찜",
     "address": "경상남도 밀양시 삼문중앙로4길 12-4",
-    "isBest": false
+    "latitude": 35.4830697,
+    "longitude": 128.7542425
   },
   {
-    "region": "경남권",
-    "name": "춤추는염소",
+    "region": "경상남도",
+    "name": "춤추는염소 [BEST]",
     "address": "경상남도 사천시 사천읍 정의길 73-7",
-    "isBest": true
+    "latitude": 35.0847061,
+    "longitude": 128.090322
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "이가네석쇠불고기",
     "address": "경상남도 사천시 사천읍 읍내1길 106",
-    "isBest": false
+    "latitude": 35.0845835,
+    "longitude": 128.086624
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "염소빵",
     "address": "경상남도 사천시 사남면 유천길 73-12",
-    "isBest": false
+    "latitude": 35.070689,
+    "longitude": 128.0763145
   },
   {
-    "region": "경남권",
-    "name": "오서방횟집",
+    "region": "경상남도",
+    "name": "오서방횟집 [BEST]",
     "address": "경상남도 사천시 서포면 서포로 259",
-    "isBest": true
+    "latitude": 35.0058593,
+    "longitude": 127.9770118
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "사천할매콩나물국밥",
     "address": "경상남도 사천시 서포면 서포로 294-1",
-    "isBest": false
+    "latitude": 35.0086128,
+    "longitude": 127.9756315
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "토담",
     "address": "경상남도 사천시 사천읍 항공로 32-10",
-    "isBest": false
+    "latitude": 35.0810358,
+    "longitude": 128.0802513
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "지리산약초장어",
     "address": "경상남도 산청군 금서면 친환경로2605번길 6-1",
-    "isBest": false
+    "latitude": 35.4185464,
+    "longitude": 127.8709892
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "일신식당",
     "address": "경상남도 산청군 생초면 산수로 1022-1",
-    "isBest": false
+    "latitude": 35.4923416,
+    "longitude": 127.836047
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "산청엔 흑돼지",
-    "address": "경상남도 산청군 산천읍 꽃봉산로 115",
-    "isBest": false
+    "address": "경상남도 산청군 산청읍 꽃봉산로 115",
+    "latitude": 35.4121816,
+    "longitude": 127.8769534
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "화계식육식당",
     "address": "경상남도 산청군 금서면 동의보감로 1055",
-    "isBest": false
+    "latitude": 35.4626721,
+    "longitude": 127.7932746
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "원지한우생고기식육식당",
     "address": "경상남도 산청군 원지로 70 백마건설중기",
-    "isBest": false
+    "latitude": 35.3000495,
+    "longitude": 127.9785015
   },
   {
-    "region": "경남권",
-    "name": "나들목아구찜",
+    "region": "경상남도",
+    "name": "나들목아구찜 [BEST]",
     "address": "경상남도 산청군 신안면 신차로 17",
-    "isBest": true
+    "latitude": 35.3370422,
+    "longitude": 128.0011204
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "장안식당",
     "address": "경상남도 산청군 산청읍 꽃봉산로91번길 26-4",
-    "isBest": false
+    "latitude": 35.4145735,
+    "longitude": 127.8767498
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "의령백년식당",
-    "address": "경상남도 의령군 충의로 20-3",
-    "isBest": false
+    "address": "경상남도 의령군 충익로 20-3",
+    "latitude": 35.3178959,
+    "longitude": 128.2624341
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "엔돌핀분식",
     "address": "경상남도 의령군 의령읍 의병로24동길 12-3",
-    "isBest": false
+    "latitude": 35.3190303,
+    "longitude": 128.265315
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "부자한우촌",
     "address": "경상남도 의령군 정곡면 법정로8길 4-6",
-    "isBest": false
+    "latitude": 35.3802861,
+    "longitude": 128.325875
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "서진식당",
     "address": "경상남도 의령군 칠곡면 자굴산로 98",
-    "isBest": false
+    "latitude": 35.3495268,
+    "longitude": 128.1940654
   },
   {
-    "region": "경남권",
-    "name": "꽃피는산골",
+    "region": "경상남도",
+    "name": "꽃피는산골 [BEST]",
     "address": "경상남도 의령군 의령읍 수암로 278-16",
-    "isBest": true
+    "latitude": 35.3068916,
+    "longitude": 128.2262425
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "따뜻한공간 쉼",
     "address": "경상남도 의령군 의령읍 의병로14길 24",
-    "isBest": false
+    "latitude": 35.3173948,
+    "longitude": 128.2590953
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "ATATAK(아타탁)",
     "address": "경상남도 창녕군 부곡면 부곡로 62",
-    "isBest": false
+    "latitude": 35.4344895,
+    "longitude": 128.6024532
   },
   {
-    "region": "경남권",
-    "name": "원아구찜",
+    "region": "경상남도",
+    "name": "원아구찜 [BEST]",
     "address": "경상남도 창녕군 창녕읍 종로5",
-    "isBest": true
+    "latitude": 35.5379091,
+    "longitude": 128.5003615
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "진미국밥",
     "address": "경상남도 창녕군 창녕읍 우포2로 1198",
-    "isBest": false
+    "latitude": 35.5445459,
+    "longitude": 128.4871841
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "벌교꼬막마을",
     "address": "경상남도 창녕군 부곡면 온천1길 50, 102호",
-    "isBest": false
+    "latitude": 35.438266,
+    "longitude": 128.589151
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "부잣집보쌈",
     "address": "경상남도 창녕군 영산면 유생길 5",
-    "isBest": false
+    "latitude": 35.4599756,
+    "longitude": 128.5342729
   },
   {
-    "region": "경남권",
-    "name": "화왕산청국장마을",
+    "region": "경상남도",
+    "name": "화왕산청국장마을 [BEST]",
     "address": "경상남도 창녕군 계성면 계성화왕산로 287-7",
-    "isBest": true
+    "latitude": 35.4959657,
+    "longitude": 128.5383694
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "화정식당",
     "address": "경상남도 하동군 하동읍 중앙2길 6-7",
-    "isBest": false
+    "latitude": 35.0703872,
+    "longitude": 127.746543
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "만지횟집",
     "address": "경상남도 하동군 하동읍 섬진강대로 2485",
-    "isBest": false
+    "latitude": 35.0867134,
+    "longitude": 127.7215578
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "하양",
     "address": "경상남도 하동군 하동읍 부두길 12",
-    "isBest": false
+    "latitude": 35.0586834,
+    "longitude": 127.7645252
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "백년국밥",
     "address": "경상남도 하동군 하동읍 시장3길 12",
-    "isBest": false
+    "latitude": 35.0687967,
+    "longitude": 127.7496701
   },
   {
-    "region": "경남권",
-    "name": "하동제과",
+    "region": "경상남도",
+    "name": "하동제과 [BEST]",
     "address": "경상남도 하동군 하동읍 시장1길 24 1층",
-    "isBest": true
+    "latitude": 35.0685264,
+    "longitude": 127.7489072
   },
   {
-    "region": "경남권",
-    "name": "은성쌈밥",
+    "region": "경상남도",
+    "name": "은성쌈밥 [BEST]",
     "address": "경상남도 하동군 금남면 섬진강대로 962-1 1층",
-    "isBest": true
+    "latitude": 34.9966886,
+    "longitude": 127.8105188
   },
   {
-    "region": "경남권",
-    "name": "가야반점짬뽕집",
+    "region": "경상남도",
+    "name": "가야반점짬뽕집 [BEST]",
     "address": "경상남도 함안군 함안대로 510",
-    "isBest": true
+    "latitude": 35.2728413,
+    "longitude": 128.4087278
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "자원오리성",
     "address": "경상남도 함안군 가야읍 한절골길 27-7",
-    "isBest": false
+    "latitude": 35.2557984,
+    "longitude": 128.425581
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "순이네 시골집",
     "address": "경상남도 함안군 가야읍 중앙남길 18",
-    "isBest": false
+    "latitude": 35.2745639,
+    "longitude": 128.4078733
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "불막열삼 함안점",
     "address": "경상남도 함안군 가야읍 고분길 69",
-    "isBest": false
+    "latitude": 35.2746788,
+    "longitude": 128.4022001
   },
   {
-    "region": "경남권",
-    "name": "대구식당",
+    "region": "경상남도",
+    "name": "대구식당 [BEST]",
     "address": "경상남도 함안군 북촌2길 50-29",
-    "isBest": true
+    "latitude": 35.2420703,
+    "longitude": 128.4227249
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "정성가득",
     "address": "경상남도 함양군 함양읍 한들로 101",
-    "isBest": false
+    "latitude": 35.5162392,
+    "longitude": 127.7299765
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "동막골",
     "address": "경남 함양군 함양읍 용평4길 5",
-    "isBest": false
+    "latitude": 35.5181494,
+    "longitude": 127.7278982
   },
   {
-    "region": "경남권",
-    "name": "돌대가리",
+    "region": "경상남도",
+    "name": "돌대가리 [BEST]",
     "address": "경상남도 함양군 함양읍 고운로 66",
-    "isBest": true
+    "latitude": 35.5206088,
+    "longitude": 127.7287687
   },
   {
-    "region": "경남권",
-    "name": "뼈대여행",
+    "region": "경상남도",
+    "name": "뼈대여행 [BEST]",
     "address": "경남 함양군 함양읍 동위천1길 31",
-    "isBest": true
+    "latitude": 35.5206863,
+    "longitude": 127.7221425
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "노가면옥",
     "address": "경남 함양군 함양읍 용평길 35",
-    "isBest": false
+    "latitude": 35.5202441,
+    "longitude": 127.7310837
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "참숯골 합천본점",
     "address": "경상남도 합천군 합천읍 옥산로 31",
-    "isBest": false
+    "latitude": 35.5688065,
+    "longitude": 128.1586061
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "만조횟집",
     "address": "경상남도 합천군 합천읍 옥산로 35-1",
-    "isBest": false
+    "latitude": 35.5687508,
+    "longitude": 128.159099
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "행복가든",
     "address": "경상남도 합천군 합천읍 핫들1로 8",
-    "isBest": false
+    "latitude": 35.5687995,
+    "longitude": 128.1647584
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "민수네",
     "address": "경상남도 합천군 합천읍 동서로60",
-    "isBest": false
+    "latitude": 35.5669362,
+    "longitude": 128.1590234
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "연하정",
     "address": "경상남도 합천군 쌍책면 성산큰길 19",
-    "isBest": false
+    "latitude": 35.5751983,
+    "longitude": 128.2854558
   },
   {
-    "region": "경남권",
-    "name": "시장식육식당",
+    "region": "경상남도",
+    "name": "시장식육식당 [BEST]",
     "address": "경상남도 합천군 합천읍 문화로 29",
-    "isBest": true
+    "latitude": 35.5613007,
+    "longitude": 128.156784
   },
   {
-    "region": "경남권",
+    "region": "경상남도",
     "name": "합천명품토종흑돼지",
     "address": "경상남도 합천군 가야면 가야시장로 106",
-    "isBest": false
+    "latitude": 35.7640386,
+    "longitude": 128.1393097
   }
 ]

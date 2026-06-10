@@ -41,3 +41,4 @@ temp/
 
 # 스크립트 폴더는 형상관리에서 제외
 geocoder/
+demo/

@@ -22,10 +22,34 @@ JSON 데이터 내 각각의 식당 객체는 다음과 같은 공통 속성을 
 * `address`: 식당 주소
 * `isBest`: 특별 추천/우수 맛집 선정 여부 (`true` 또는 `false`)
 
+## 🗺️ Web Map Visualizer 데모 화면
+
+웹 기반 동적 지도에서 데이터를 즉시 확인하고 필터링해 볼 수 있는 데모 환경도 제공합니다.
+
+### 시연 이미지
+<p align="center">
+  <img src="./assets/busan_map_1781111632437.png" width="800" alt="부산 필터 화면" />
+  <br/>
+  <em>부산광역시 맛집 필터</em>
+</p>
+<p align="center">
+  <img src="./assets/ulsan_map_1781111644168.png" width="800" alt="울산 필터 화면" />
+  <br/>
+  <em>울산광역시 맛집 필터</em>
+</p>
+<p align="center">
+  <img src="./assets/gyeongnam_map_1781111656312.png" width="800" alt="경남 필터 화면" />
+  <br/>
+  <em>경상남도 맛집 필터</em>
+</p>
+
+### 시연 영상
+![시연 영상](./assets/map_region_filters_1781111601355.webp)
+
 ## 🤝 기여하기 (Contributing)
 
 WaveZ-Tasty는 여러분의 참여를 환영합니다!
-신뢰할 수 있는 훌륭한 맛집 리스트나 로컬 큐레이션 데이터가 있다면, 본 저장소의 구조에 맞게 데이터를 파싱하여 새로운 디렉터리로 Pull Request를 남겨주세요. 
+신뢰할 수 있는 훌륭한 맛집 리스트나 로컬 큐레이션 데이터가 있다면 Pull Request를 남겨주세요. 
 
 ---
 WaveZ와 함께 맛있는 오픈소스 데이터 생태계를 만들어갑니다! 🚀
